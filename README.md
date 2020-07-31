@@ -20,7 +20,7 @@ In this project I will be writing a program that reads from the "constants" data
      * Each team will have the same number of total players.
      * Each team will have the same number of experienced and inexperienced players.
 
-5. Creat a menu function for options selection.
+5. Create a menu function for options selection.
    Main Menu:
      * Display Team Stats.
      * Quit. 
