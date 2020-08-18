@@ -29,3 +29,6 @@ Team stats will display:
 * Average height of players on the team.
 
 
+REQUIREMENTS
+------------
+Python
