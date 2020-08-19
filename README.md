@@ -32,6 +32,8 @@ Team stats will display:
 REQUIREMENTS
 ------------
 Python
-```import constants
+```
+import constants
 import copy
-import sys```
+import sys
+```
