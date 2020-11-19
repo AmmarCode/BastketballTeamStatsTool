@@ -1,7 +1,8 @@
 Basketball Team Stats Tool
 --------------------------
- Python Web Development-Tech degree Project 2
- Created by AmmarCode
+ 
+Python Web Development-Tech degree Project 2
+Created by AmmarCode
 INTRODUCTION
 ------------
 - This is a program reads (`PLAYERS` and `TEAMS`) data from the constants.py  
