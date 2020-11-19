@@ -1,9 +1,9 @@
-Basketball Team Stats Tool
+### Basketball Team Stats Tool
 --------------------------
  
 Python Web Development-Tech degree Project 2
 Created by AmmarCode
-INTRODUCTION
+### INTRODUCTION
 ------------
 - This is a program reads (`PLAYERS` and `TEAMS`) data from the constants.py  
 - Data will be cleaned and transformed into a new collection, 
@@ -18,6 +18,6 @@ Team stats will display:
 * Average height of players on the team.
 
 
-REQUIREMENTS
+### REQUIREMENTS
 ------------
 Python3
