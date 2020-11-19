@@ -1,7 +1,7 @@
 ### Basketball Team Stats Tool
 --------------------------
  
-Python Web Development - Tech degree Project 2
+Python Web Development - Tech degree - Project 2
 
 Created by AmmarCode
 ### INTRODUCTION
