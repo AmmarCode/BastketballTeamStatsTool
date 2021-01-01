@@ -18,7 +18,7 @@ The program will have a menu with 2 options: Display team stats, Or quit the pro
 
 Team stats will display:
 
-* Teams name.
+* Team's name.
 
 * Total players on the team.
 
@@ -31,4 +31,4 @@ Team stats will display:
 
 REQUIREMENTS
 ------------
-Python
+Python3
